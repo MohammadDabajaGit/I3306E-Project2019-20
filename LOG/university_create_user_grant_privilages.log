@@ -1,0 +1,8 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1827 (HY000) at line 4: The password hash doesn't have the expected format.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'PASSWORD(1234)' at line 1
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1827 (HY000) at line 2: The password hash doesn't have the expected format.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1221 (HY000) at line 5: Incorrect usage of DB GRANT and GLOBAL PRIVILEGES
